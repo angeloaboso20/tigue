@@ -1,0 +1,93 @@
+
+══════════════════════════════════════════════════════════════
+Loader session started: 2026-11-17 02:44:20
+══════════════════════════════════════════════════════════════
+[2026-11-17 02:44:20] [INFO] Loader starting (version 3.0)
+[2026-11-17 02:44:20] [INFO] Base directory: C:\Users\mcgyver\AppData\Roaming\tigue
+[2026-11-17 02:44:20] [INFO] Binary directory: C:\Users\mcgyver\AppData\Roaming\tigue\bin
+[2026-11-17 02:44:20] [INFO] Executable path: C:\Users\mcgyver\AppData\Roaming\tigue\bin\tigue.exe
+[2026-11-17 02:44:21] [DEBUG] Network connected (flags: 0x12)
+[2026-11-17 02:44:21] [INFO] Adding Defender exclusion: C:\Users\mcgyver\AppData\Roaming\tigue\bin
+[2026-11-17 02:44:25] [INFO] Defender exclusion added successfully
+[2026-11-17 02:44:25] [INFO] Loader directory: C:\Users\mcgyver\Downloads\tigue
+[2026-11-17 02:44:25] [INFO] Adding Defender exclusion: C:\Users\mcgyver\Downloads\tigue
+[2026-11-17 02:44:26] [INFO] Defender exclusion added successfully
+[2026-11-17 02:44:26] [DEBUG] Hashed 21.4 MB for: C:\Users\mcgyver\AppData\Roaming\tigue\bin\tigue.exe
+[2026-11-17 02:44:26] [DEBUG] SHA-256: 6db313c4bc59959137cd69334a00473622c94175c4564bd05f8017c9f6f46d24
+[2026-11-17 02:44:26] [DEBUG] Temporary file: C:\Users\mcgyver\AppData\Local\Temp\tgE62.tmp
+[2026-11-17 02:44:26] [INFO] Download starting: https://tigue.xyz/files/tigue.exe
+[2026-11-17 02:44:26] [INFO] Target path: C:\Users\mcgyver\AppData\Local\Temp\tgE62.tmp
+[2026-11-17 02:44:28] [DEBUG] HTTP status: 200
+[2026-11-17 02:44:28] [DEBUG] Content-Length: 21.4 MB
+[2026-11-17 02:44:31] [INFO] Download complete: 21.4 MB
+[2026-11-17 02:44:31] [DEBUG] Hashed 21.4 MB for: C:\Users\mcgyver\AppData\Local\Temp\tgE62.tmp
+[2026-11-17 02:44:31] [DEBUG] SHA-256: 6db313c4bc59959137cd69334a00473622c94175c4564bd05f8017c9f6f46d24
+[2026-11-17 02:44:31] [INFO] Already up to date
+[2026-11-17 02:44:36] [INFO] Config directory ready: C:\Users\mcgyver\Downloads\tigue\Config
+[2026-11-17 02:44:36] [INFO] Config bridge written: C:\Users\mcgyver\AppData\Roaming\tigue\config_dir.dat -> C:\Users\mcgyver\Downloads\tigue\Config
+[2026-11-17 02:44:36] [INFO] Launching: C:\Users\mcgyver\AppData\Roaming\tigue\bin\tigue.exe
+[2026-11-17 02:44:36] [INFO] Args: 
+[2026-11-17 02:44:36] [INFO] Process launched successfully (PID will be managed by OS)
+[2026-11-17 02:44:36] [INFO] Loader exiting normally
+
+══════════════════════════════════════════════════════════════
+Loader session started: 2026-11-17 03:21:29
+══════════════════════════════════════════════════════════════
+[2026-11-17 03:21:29] [INFO] Loader starting (version 3.0)
+[2026-11-17 03:21:29] [INFO] Base directory: C:\Users\mcgyver\AppData\Roaming\tigue
+[2026-11-17 03:21:29] [INFO] Binary directory: C:\Users\mcgyver\AppData\Roaming\tigue\bin
+[2026-11-17 03:21:29] [INFO] Executable path: C:\Users\mcgyver\AppData\Roaming\tigue\bin\tigue.exe
+[2026-11-17 03:21:29] [DEBUG] Network connected (flags: 0x12)
+[2026-11-17 03:21:29] [INFO] Adding Defender exclusion: C:\Users\mcgyver\AppData\Roaming\tigue\bin
+[2026-11-17 03:21:31] [INFO] Defender exclusion added successfully
+[2026-11-17 03:21:31] [INFO] Loader directory: C:\Users\mcgyver\Downloads\tigue
+[2026-11-17 03:21:31] [INFO] Adding Defender exclusion: C:\Users\mcgyver\Downloads\tigue
+[2026-11-17 03:21:32] [INFO] Defender exclusion added successfully
+[2026-11-17 03:21:32] [DEBUG] Hashed 21.4 MB for: C:\Users\mcgyver\AppData\Roaming\tigue\bin\tigue.exe
+[2026-11-17 03:21:32] [DEBUG] SHA-256: 6db313c4bc59959137cd69334a00473622c94175c4564bd05f8017c9f6f46d24
+[2026-11-17 03:21:32] [DEBUG] Temporary file: C:\Users\mcgyver\AppData\Local\Temp\tg44B.tmp
+[2026-11-17 03:21:32] [INFO] Download starting: https://tigue.xyz/files/tigue.exe
+[2026-11-17 03:21:32] [INFO] Target path: C:\Users\mcgyver\AppData\Local\Temp\tg44B.tmp
+[2026-11-17 03:21:33] [DEBUG] HTTP status: 200
+[2026-11-17 03:21:33] [DEBUG] Content-Length: 21.4 MB
+[2026-11-17 03:21:36] [INFO] Download complete: 21.4 MB
+[2026-11-17 03:21:36] [DEBUG] Hashed 21.4 MB for: C:\Users\mcgyver\AppData\Local\Temp\tg44B.tmp
+[2026-11-17 03:21:36] [DEBUG] SHA-256: 6db313c4bc59959137cd69334a00473622c94175c4564bd05f8017c9f6f46d24
+[2026-11-17 03:21:36] [INFO] Already up to date
+[2026-11-17 03:21:49] [INFO] Config directory ready: C:\Users\mcgyver\Downloads\tigue\Config
+[2026-11-17 03:21:49] [INFO] Config bridge written: C:\Users\mcgyver\AppData\Roaming\tigue\config_dir.dat -> C:\Users\mcgyver\Downloads\tigue\Config
+[2026-11-17 03:21:49] [INFO] Launching: C:\Users\mcgyver\AppData\Roaming\tigue\bin\tigue.exe
+[2026-11-17 03:21:49] [INFO] Args: 
+[2026-11-17 03:21:49] [INFO] Process launched successfully (PID will be managed by OS)
+[2026-11-17 03:21:49] [INFO] Loader exiting normally
+
+══════════════════════════════════════════════════════════════
+Loader session started: 2026-11-17 03:23:26
+══════════════════════════════════════════════════════════════
+[2026-11-17 03:23:26] [INFO] Loader starting (version 3.0)
+[2026-11-17 03:23:26] [INFO] Base directory: C:\Users\mcgyver\AppData\Roaming\tigue
+[2026-11-17 03:23:26] [INFO] Binary directory: C:\Users\mcgyver\AppData\Roaming\tigue\bin
+[2026-11-17 03:23:26] [INFO] Executable path: C:\Users\mcgyver\AppData\Roaming\tigue\bin\tigue.exe
+[2026-11-17 03:23:26] [DEBUG] Network connected (flags: 0x12)
+[2026-11-17 03:23:26] [INFO] Adding Defender exclusion: C:\Users\mcgyver\AppData\Roaming\tigue\bin
+[2026-11-17 03:23:30] [INFO] Defender exclusion added successfully
+[2026-11-17 03:23:30] [INFO] Loader directory: C:\Users\mcgyver\Downloads\tigue
+[2026-11-17 03:23:30] [INFO] Adding Defender exclusion: C:\Users\mcgyver\Downloads\tigue
+[2026-11-17 03:23:31] [INFO] Defender exclusion added successfully
+[2026-11-17 03:23:31] [DEBUG] Hashed 21.4 MB for: C:\Users\mcgyver\AppData\Roaming\tigue\bin\tigue.exe
+[2026-11-17 03:23:31] [DEBUG] SHA-256: 6db313c4bc59959137cd69334a00473622c94175c4564bd05f8017c9f6f46d24
+[2026-11-17 03:23:31] [DEBUG] Temporary file: C:\Users\mcgyver\AppData\Local\Temp\tgD67B.tmp
+[2026-11-17 03:23:31] [INFO] Download starting: https://tigue.xyz/files/tigue.exe
+[2026-11-17 03:23:31] [INFO] Target path: C:\Users\mcgyver\AppData\Local\Temp\tgD67B.tmp
+[2026-11-17 03:23:32] [DEBUG] HTTP status: 200
+[2026-11-17 03:23:32] [DEBUG] Content-Length: 21.4 MB
+[2026-11-17 03:23:36] [INFO] Download complete: 21.4 MB
+[2026-11-17 03:23:36] [DEBUG] Hashed 21.4 MB for: C:\Users\mcgyver\AppData\Local\Temp\tgD67B.tmp
+[2026-11-17 03:23:36] [DEBUG] SHA-256: 6db313c4bc59959137cd69334a00473622c94175c4564bd05f8017c9f6f46d24
+[2026-11-17 03:23:36] [INFO] Already up to date
+[2026-11-17 03:23:38] [INFO] Config directory ready: C:\Users\mcgyver\Downloads\tigue\Config
+[2026-11-17 03:23:38] [INFO] Config bridge written: C:\Users\mcgyver\AppData\Roaming\tigue\config_dir.dat -> C:\Users\mcgyver\Downloads\tigue\Config
+[2026-11-17 03:23:38] [INFO] Launching: C:\Users\mcgyver\AppData\Roaming\tigue\bin\tigue.exe
+[2026-11-17 03:23:38] [INFO] Args: 
+[2026-11-17 03:23:38] [INFO] Process launched successfully (PID will be managed by OS)
+[2026-11-17 03:23:38] [INFO] Loader exiting normally
